@@ -92,6 +92,14 @@
 
 ---
 
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/AEUS-06/AEUS-06/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/AEUS-06/AEUS-06/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/AEUS-06/AEUS-06/activity-graph-output/activity-graph.svg?radius=16&theme=nightowl&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
+
+---
+
 <div>
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&color=random"/>
 </div>
