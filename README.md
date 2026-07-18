@@ -1,12 +1,10 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yjg3pbwzs7ykcondzwlre7payi&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31yjg3pbwzs7ykcondzwlre7payi&redirect=true)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AEUS-06/AEUS-06/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AEUS-06/AEUS-06/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/AEUS-06/AEUS-06/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AEUS-06/AEUS-06/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AEUS-06/AEUS-06/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AEUS-06/AEUS-06/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
 
 
 ---
