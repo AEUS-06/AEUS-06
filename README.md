@@ -8,6 +8,25 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AEUS-06/AEUS-06/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
 
+---
+
+<div align="center">
+
+## ☁️ Google Cloud Skill
+
+<a href="https://www.skills.google/public_profiles/7811f03a-2ed4-441c-85b1-cfbc96679949/badges/26226330" target="_blank">
+  <img
+    src="https://cdn.qwiklabs.com/7O4cDMQlvwMCsyn8h5sdo9gQ7Efv9m0n0%2Bg%2Bj523k0I%3D"
+    alt="Google Cloud Skill Badge"
+    width="250"
+  />
+</a>
+
+<br><br>
+
+<sub>Haz clic en la insignia para ver la certificación.</sub>
+
+</div>
 
 ---
 
